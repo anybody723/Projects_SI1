@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bad97bcd-879f-493a-8646-457d2d38ec55" name="Changes" comment="list part2 done">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/ExercisesIP/EF1/5a.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/ExercisesIP/EF1/5a.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/ExercisesIP/EF1/5b.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/ExercisesIP/EF1/5b.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/ExercisesIP/EF1/5c.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/ExercisesIP/EF1/5c.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/ExercisesIP/EF1/5d.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/ExercisesIP/EF1/5d.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/ExercisesIP/EF1/5e.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/ExercisesIP/EF1/5e.py" afterDir="false" />
-    </list>
+    <list default="true" id="bad97bcd-879f-493a-8646-457d2d38ec55" name="Changes" comment="list done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709338480138</updated>
       <workItem from="1709719204991" duration="1682000" />
-      <workItem from="1709722940293" duration="1827000" />
+      <workItem from="1709722940293" duration="2393000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -104,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709686145365</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="list done">
+      <option name="closed" value="true" />
+      <created>1709725333260</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709725333260</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,7 +114,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first commit" />
     <MESSAGE value="list part2 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="list part2 done" />
+    <MESSAGE value="list done" />
+    <option name="LAST_COMMIT_MESSAGE" value="list done" />
   </component>
   <component name="WfRunsListSearchHistory">{
   &quot;history&quot;: [
