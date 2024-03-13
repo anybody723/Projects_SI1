@@ -1,39 +1,49 @@
 #include <iostream>
 #include <vector>
+#include <sstream>
+#include <algorithm>
 
 using namespace std;
 
+vector<int> splitStringToInt(const string& input) {
+    vector<int> result;
+    istringstream ss(input);
+    string token;
+
+    while (getline(ss, token, ' ')) {
+        result.push_back(stoi(token));
+    }
+
+    return result;
+}
+
 int main() {
-    int quantPredios;
-    cin >> quantPredios;
-    if(quantPredios < 2){
-        return 0;
-    }
-    /*cout << "quantPredios: " << quantPredios << endl;*/
+    int N, C, M;
+    cin >> N >> C >> M;
 
-    vector<int> vetAndares(quantPredios);
-    int maiorDist = 0;
+    cin.ignore(); // Ignora a quebra de linha anterior
 
-    for(int i = 0; i < quantPredios; ++i) {
-        cin >> vetAndares[i];
-    }
-    for(int i = 0; i < quantPredios; ++i) {
-        /*cout << i + 1 << "a rodada!" << endl;*/
-        for(int j = i; j < quantPredios; ++j) {
-            int dist = vetAndares[i] + j - i + vetAndares[j];
-            /*cout << "a: " << vetAndares[i] << endl;
-            cout << "b: " << j - i << endl;
-            cout << "c: " << vetAndares[j] << endl;
-            cout << "dist: " << dist << endl;
-            cout << "maiorDist: " << dist << endl;*/
-            if(dist > maiorDist){
-                maiorDist = dist;
-            }
-            /*cout << "maiorDist: " << dist << endl;*/
+    string carimbadasInput;
+    getline(cin, carimbadasInput);
+    vector<int> carimbadas = splitStringToInt(carimbadasInput);
+
+    string compradasInput;
+    getline(cin, compradasInput);
+    vector<int> compradas = splitStringToInt(compradasInput);
+
+    int faltam = C;
+    //auto deduz o tipo, cont garante que o valor não seja alterado
+    for (const auto& figurinha : compradas) {
+        //it é o indice do elemento figurinha contido em carimbadas
+        auto it = find(carimbadas.begin(), carimbadas.end(), figurinha);
+        //carimbadas.end é o retorno caso o elemento figurinhas não esteja contido
+        if (it != carimbadas.end()) {
+            carimbadas.erase(it);
+            faltam--;
         }
     }
 
-    cout << maiorDist << endl;
+    cout << faltam << endl;
 
     return 0;
 }
