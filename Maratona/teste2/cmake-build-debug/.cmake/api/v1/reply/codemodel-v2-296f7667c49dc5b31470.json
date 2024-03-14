@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "teste2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "amigos::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-amigos-Debug-e3b5cf4738cf53ffbcda.json",
+					"name" : "amigos",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "figurinhas::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-figurinhas-Debug-968024509bd9ccc61a6d.json",
+					"name" : "figurinhas",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "teste2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-teste2-Debug-659de917791c1000c760.json",
+					"name" : "teste2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/0063398/Documents/Projects/Projects_SI1/Maratona/teste2/cmake-build-debug",
+		"source" : "C:/Users/0063398/Documents/Projects/Projects_SI1/Maratona/teste2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

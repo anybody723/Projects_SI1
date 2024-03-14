@@ -1,0 +1,5 @@
+C:/Users/0063398/Documents/Projects/Projects_SI1/Maratona/teste2/cmake-build-debug/CMakeFiles/teste2.dir
+C:/Users/0063398/Documents/Projects/Projects_SI1/Maratona/teste2/cmake-build-debug/CMakeFiles/amigos.dir
+C:/Users/0063398/Documents/Projects/Projects_SI1/Maratona/teste2/cmake-build-debug/CMakeFiles/figurinhas.dir
+C:/Users/0063398/Documents/Projects/Projects_SI1/Maratona/teste2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/0063398/Documents/Projects/Projects_SI1/Maratona/teste2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

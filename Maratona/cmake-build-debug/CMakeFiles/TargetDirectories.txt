@@ -1,3 +1,0 @@
-/home/anybody/Documents/Projects/Projects_SI1/Maratona/cmake-build-debug/CMakeFiles/Maratona.dir
-/home/anybody/Documents/Projects/Projects_SI1/Maratona/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/anybody/Documents/Projects/Projects_SI1/Maratona/cmake-build-debug/CMakeFiles/rebuild_cache.dir

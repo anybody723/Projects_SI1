@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/Maratona.dir/C++/Lista1/amigo.cpp.o CMakeFiles/Maratona.dir/C++/Lista1/figurinhas.cpp.o -o Maratona 

@@ -1,0 +1,19 @@
+# ninja log v5
+3	787	7320795876042378	CMakeFiles/teste2.dir/amigos.cpp.obj	d7ab55e2e1f72f83
+796	1013	7320799145514249	amigos.exe	476f8f5dc739c845
+2	221	7320798409192021	teste2.exe	b49b5a7f93a632cd
+42	1101	7320795565596823	CMakeFiles/teste2.dir/main.cpp.obj	a937f5e4788fd948
+1	460	7320800759005124	build.ninja	b2e53f22939de5bf
+3	796	7320799143459755	CMakeFiles/amigos.dir/amigos.cpp.obj	d1856bfe0ea3d680
+0	936	7320804330340164	CMakeFiles/figurinhas.dir/figurinhas.cpp.obj	80adda1679960b02
+938	1163	7320804332435095	figurinhas.exe	2b2a5515e3fd1f1f
+2	946	7320815872786027	CMakeFiles/figurinhas.dir/figurinhas.cpp.obj	80adda1679960b02
+947	1193	7320815874978386	figurinhas.exe	2b2a5515e3fd1f1f
+3	892	7320816951337659	CMakeFiles/figurinhas.dir/figurinhas.cpp.obj	80adda1679960b02
+893	1113	7320816953415156	figurinhas.exe	2b2a5515e3fd1f1f
+3	965	7320818760216644	CMakeFiles/figurinhas.dir/figurinhas.cpp.obj	80adda1679960b02
+966	1184	7320818762281138	figurinhas.exe	2b2a5515e3fd1f1f
+3	926	7320820316858731	CMakeFiles/figurinhas.dir/figurinhas.cpp.obj	80adda1679960b02
+927	1151	7320820318982745	figurinhas.exe	2b2a5515e3fd1f1f
+5	909	7320823254233925	CMakeFiles/figurinhas.dir/figurinhas.cpp.obj	80adda1679960b02
+910	1170	7320823256710688	figurinhas.exe	2b2a5515e3fd1f1f

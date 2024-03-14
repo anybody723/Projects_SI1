@@ -32,13 +32,10 @@ int main() {
     vector<int> compradas = splitStringToInt(compradasInput);
 
     int faltam = C;
-    //auto deduz o tipo, cont garante que o valor não seja alterado
     for (const auto& figurinha : compradas) {
-        //it é o indice do elemento figurinha contido em carimbadas
         auto it = find(carimbadas.begin(), carimbadas.end(), figurinha);
-        //carimbadas.end é o retorno caso o elemento figurinhas não esteja contido
         if (it != carimbadas.end()) {
-            /*carimbadas.erase(it);*/
+            carimbadas[0] = -1;
             faltam--;
         }
     }
