@@ -9,10 +9,8 @@ int main() {
     if(quantPredios < 2){
         return 0;
     }
-
     vector<int> vetAndares(quantPredios);
     int maiorDist = 0;
-
     for(int i = 0; i < quantPredios; ++i) {
         cin >> vetAndares[i];
     }
@@ -24,8 +22,6 @@ int main() {
             }
         }
     }
-
     cout << maiorDist << endl;
-
     return 0;
 }
