@@ -19,8 +19,8 @@ int main() {
         quantVez = 0;
     }
     int j;
+    int anterior;
     for(int i = 0; i < M; i++){
-        int anterior;
         if(i == 0){
             anterior = 0;
             i++;
