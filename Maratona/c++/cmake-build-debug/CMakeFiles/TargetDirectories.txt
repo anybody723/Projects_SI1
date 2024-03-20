@@ -1,6 +1,0 @@
-/home/anybody/Documents/Projects/Projects_SI1/Maratona/c++/cmake-build-debug/CMakeFiles/main.dir
-/home/anybody/Documents/Projects/Projects_SI1/Maratona/c++/cmake-build-debug/CMakeFiles/amigos.dir
-/home/anybody/Documents/Projects/Projects_SI1/Maratona/c++/cmake-build-debug/CMakeFiles/figurinhas.dir
-/home/anybody/Documents/Projects/Projects_SI1/Maratona/c++/cmake-build-debug/CMakeFiles/segredo-cofre.dir
-/home/anybody/Documents/Projects/Projects_SI1/Maratona/c++/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/anybody/Documents/Projects/Projects_SI1/Maratona/c++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
